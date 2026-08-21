@@ -1,0 +1,23 @@
+{
+  "name": "serve-customers",
+  "version": "1.0.0",
+  "owner": {
+    "name": "Andrew Luxem"
+  },
+  "description": "Traces a supplied decision to customer evidence, affected groups, tradeoffs, and measures. Static: no network calls, no remote fetch, no telemetry, and no auto-update.",
+  "plugins": [
+    {
+      "name": "serve-customers",
+      "version": "1.0.0",
+      "source": "./",
+      "description": "Traces a supplied decision to customer evidence, affected groups, tradeoffs, and measures. Static: no network calls, no remote fetch, no telemetry, and no auto-update.",
+      "category": "productivity",
+      "tags": [
+        "agent-skills",
+        "claude-code",
+        "customer-impact",
+        "customer-evidence"
+      ]
+    }
+  ]
+}

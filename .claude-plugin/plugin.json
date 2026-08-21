@@ -1,0 +1,17 @@
+{
+  "name": "serve-customers",
+  "version": "1.0.0",
+  "description": "Traces a supplied decision to customer evidence, affected groups, tradeoffs, and measures. Static: no network calls, no remote fetch, no telemetry, and no auto-update.",
+  "author": {
+    "name": "Andrew Luxem"
+  },
+  "homepage": "https://github.com/andrewluxem/serve-customers",
+  "repository": "https://github.com/andrewluxem/serve-customers",
+  "license": "MIT",
+  "keywords": [
+    "agent-skills",
+    "claude-code",
+    "customer-impact",
+    "customer-evidence"
+  ]
+}
